@@ -34,8 +34,19 @@ Teliver.init(this,"TELIVER_KEY");
 ```
 
 > Note: Obtain the Teliver key from the dashboard https://app.teliver.io, Use `TLog.setVisible(true);`to enable logging for development.
-OUTPUT:
+
+# OUTPUT:
 
 ![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/01.gif)
+
+![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/IMG-20190415-WA0007.jpg)
+
+![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/IMG-20190416-WA0006.jpeg)
+
+![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/Screenshot_20190415-185215.jpeg)
+
+![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/Screenshot_20190415-185559.jpeg)
+
+![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/Screenshot_20190415-190400.jpeg)
 
 
