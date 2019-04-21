@@ -39,7 +39,7 @@ Teliver.init(this,"TELIVER_KEY");
 
 ![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/01.gif)
 
-![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/IMG-20190415-WA0007.jpg ){:height="50%" width="50%"}
+![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/IMG-20190415-WA0007.jpg )
 
 ![](https://github.com/tracebackerror/parental_track/blob/master/output_and_apk/IMG-20190416-WA0006.jpeg)
 
